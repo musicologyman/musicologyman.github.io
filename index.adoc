@@ -66,10 +66,10 @@ continuo::
 see <<basso_continuo, basso continuo>>
 
 full cadence:: 
-a <<cadence >> that creates a sense of closure.
+a <<cadence, cadence>> that creates a sense of closure.
 
 half cadence:: 
-a <<cadence >> that provides a sense of repose but not of closure, like the end of a dependent clause when speaking or writing.
+a <<cadence, cadence>> that provides a sense of repose but not of closure, like the end of a dependent clause when speaking or writing.
 
 melisma:: 
 a series of notes sung to a single syllable.
