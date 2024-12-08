@@ -9,7 +9,8 @@
 
 Karl M&uuml;nchinger, Stuttgart Chamber Orchestra::
     - CD: https://www.amazon.com/Bach-Art-Fugue-Musical-Offering/dp/B000050GK0/ref=sr_1_fkmr1_1[Amazon.com,window=_blank]
-    - High-quality (lossless) download: https://www.prestomusic.com/classical/products/9467923--j-s-bach-magnificat-bwv-243-meine-seel-erhebt-den-herren-cantata-bwv-10:[prestomusic,window=_blank]
+    - High-quality (lossless) download: 
+    pass:[<a href="https://www.prestomusic.com/classical/products/8036364--js-bach-easter-oratorio-magnificat" target="_blank">prestomusic</a>]
 
 Recording search caveats::
     - What you want: J.S. Bach, Magnificat in D, BWV 243
