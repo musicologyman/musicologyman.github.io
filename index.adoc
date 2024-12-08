@@ -47,3 +47,41 @@ While not addressing the Magnificat, this book contains some helpful information
 Christoph Wolff, _Johann Sebastian Bach: The Learned Musician_ (Norton, 2001)::
 
 This is the definitive Bach biography. While it does contain some technical discussions of the music, one can easily skip over them without losing a sense of the contours of Bach's life and career. (https://www.amazon.com/Johann-Sebastian-Bach-Learned-Musician/dp/0393322564/ref=tmm_pap_swatch_0[Amazon.com,window=_blank])
+
+== Glossary
+
+[#basso_continuo] 
+basso continuo::
+a group of instruments that play the bass line for an ensemble, members of which may improvise parts of the chordal accompaniment. Instruments that make up the _basso continuo_ may include the cello, string bass, bassoon, harpsichord, organ (in sacred music), and theorbo (a type of bass lute).
+
+[#cadence]
+cadence:: 
+a point of repose in music like a comma, semicolon, or period in poetry.
+
+common practice period::
+see <<tonal_music, tonal music>>
+
+continuo::
+see <<basso_continuo, basso continuo>>
+
+full cadence:: 
+a <<cadence >> that creates a sense of closure.
+
+half cadence:: 
+a <<cadence >> that provides a sense of repose but not of closure, like the end of a dependent clause when speaking or writing.
+
+melisma:: 
+a series of notes sung to a single syllable.
+
+ritornello::
+"`In the late 17th and 18th centuries, the recurring tutti section of a concerto 
+movement or an aria.`".footnote:[Don Michael Randel, ed., _The Harvard Dictionary
+of Music,_ 4th edn. (Cambridge: Belknap, 2003).]
+
+[#tonal_music]
+tonal music::
+The music of the "`common practice period,`" that is, from roughly the last half of the seventeenth century through the first two decades of the twentieth. Tonal music is characterized by strong senses of expectation and directionality that result from the harmonies from which we derive major and minor scales.
+
+[#tutti]
+tutti::
+A passage in which the attention id devoted to the full orchestra. Used to distinguish from passages performed by soloists with accompaniment provided by a small subset of the ensemble.
