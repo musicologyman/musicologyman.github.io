@@ -85,4 +85,4 @@ The music of the "`common practice period,`" that is, from roughly the last half
 
 [#tutti]
 tutti::
-A passage in which the attention id devoted to the full orchestra. Used to distinguish from passages performed by soloists with accompaniment provided by a small subset of the ensemble.
+A passage in which the attention is devoted to the full orchestra. Used to distinguish from passages performed by soloists with accompaniment provided by a small subset of the ensemble.
