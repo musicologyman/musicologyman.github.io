@@ -30,6 +30,12 @@ https://youtu.be/3EPk6zOaLH0[HR-Symphony Orchestra, Choir of Le Concert Astr&eac
 
 https://youtu.be/zK9i1f3l-rU[Le Concert de nations, La Capella Reial de Catalunya, Jordi Savall, window=_blank]
 
+== Text
+
+++++
+<a href="./magnificat_text.html" target="_blank"><emphasis>Magnificat</emphasis> text as set by Bach</a>
+++++
+
 == Readings
 
 === Web

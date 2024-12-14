@@ -1,0 +1,55 @@
+= Bach, Magnificat in D, BWV 243
+:nofooter:
+
+
+[cols="16,42,42"]
+|===
+| I. Chorus
+| Magnificat anima mea Dominum
+| My soul doth magnify the Lord
+| II. Soprano II
+| Et exultavit spiritus meus in Deo salutari meo
+| and my spirit hath rejoiced in God my savior
+| III. Soprano I
+| Quia respexit humiltitaem acillae suae; +
+ecce enim ex hoc beatam me dicent
+.2+| For he hath regarded the lowliness of his handmaiden. +
+For behold, from henceforth #all generations# shall call me blessed.
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chorus
+| #omnes generationes.#
+| IV. Bass
+| Quia fecit mihi magna, qui potens est, +
+et sanctum nomen ejus. 
+| For he that is mighty hath magnified me,
+and holy is his name. 
+| V. Alto & Tenor
+| Et misericordia eius a progenie in progenies timentibus eum.
+| And his mercy is on them that fear him throughout all generations. 
+| VI. Chorus
+| Fecit potentiam in brachio suo; +
+*dispersit* superbos mente cordis sui;
+| He hath shewed strength with his arm; 
+he hath scattered the proud in the imagination of their hearts. 
+| VII. Tenor
+| deposuit potentes de sede, et exaltavit humiles;
+| He hath put down the mighty from their seat + 
+and hath exalted the humble and meek. 
+| VIII. Alto
+| esurientes implevit bonis et divites dimisit inanes.
+| He hath filled the hungry with good things: and the rich he hath sent empty away. 
+| IX. Sopranos I & II + 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Alto 
+| Suscepit Israel puerum suum, recordatus misericordiae suae,
+| He remembering his mercy hath holpen his servant Israel.
+| X. Chorus
+| sicut locutus est ad patres nostros,
+Abraham et semini eius in saecula.
+| As he promised to our forefathers, Abraham and his seed for ever.
+| XI. Chorus
+| Gloria Patri, et Filio, et Spiritui Sancto, +
+sicut erat in principio, et nunc, et semper: +
+et in Saecula saeculorum. Amen.
+| Glory to the Father and the Son and the Holy Ghost; +
+As it was in the beginning, is now, and ever shall be: +
+world without end. Amen.
+|===
